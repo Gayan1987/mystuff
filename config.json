@@ -1,0 +1,8 @@
+{
+    "HTTPS_URL": "https://10.100.5.3:9443",
+    "HTTP_URL": "http://10.100.5.3:9763",
+    "RUBY_SERVER_URL": "https://10.200.0.112:8443",
+    "MDM_UI_URI": "/mdm/",
+    "MDM_API_URI": "/mdm/api/",
+    "MDM_THEME": "wso2sinine"
+}
